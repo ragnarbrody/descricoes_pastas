@@ -33,7 +33,7 @@
     {
       "fase": 1,
       "descricao": " E então a escuridão preenche sua visão... os números param, a queda cessa...",
-      "contador": 10,
+      "contador": 12,
       "ordem": 6
     },
     {
@@ -44,21 +44,33 @@
     },
     {
       "fase": 1,
-      "descricao": " ... ... ... ...",
+      "descricao": " ... ... ... ... ... ... ... ...",
       "contador": 6,
       "ordem": 8
     },
     {
       "fase": 1,
-      "descricao": " Figura= Ei! Espere um pouco, você está vivo!",
-      "contador": 6,
+      "descricao": " Figura= Ei! Esp...ppeere um pouco, você está vi..viiivo! (exclama, uma voz robótica e falha)",
+      "contador": 12,
       "ordem": 9
     },
     {
       "fase": 1,
-      "descricao": " Figura= Está tudo bem (pergunta), você estava gritando, desesperado...",
-      "contador": 8,
+      "descricao": " Figura= Está tud..doo be..ee...eem (pergunta), você estava gritaaaaan..do... desesperado...",
+      "contador": 12,
       "ordem": 10
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= E..Eu... Onde eu estou (pergunta, com a voz fraca e tremula)...",
+      "contador": 11,
+      "ordem": 11
+    },
+    {
+      "fase": 1,
+      "descricao": " Figura= Ora! você esss..ssta na Bibliote..te..teca dos fragmentos!! Onde mais estaria (retruca)",
+      "contador": 12,
+      "ordem": 11
     }
   ]
 }
