@@ -2,13 +2,13 @@
   "descricoes": [
     {
       "fase": 1,
-      "descricao": " Figura= Ei! espere um pouco, voce está bem (pergunta)",
+      "descricao": " Figura= Ei! espere um pouco, você está bem (pergunta)",
       "contador": 4,
       "ordem": 1
     },
     {
       "fase": 1,
-      "descricao": " Você= Argh... Onde estou quem é você",
+      "descricao": " Você= Argh... Onde estou, quem é você (pergunta)",
       "contador": 3,
       "ordem": 2
     },
