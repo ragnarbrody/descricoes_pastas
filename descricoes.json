@@ -2,26 +2,26 @@
   "descricoes": [
     {
       "fase": 1,
-      "descricao": " Teste_1",
-      "contador": 6,
+      "descricao": " Figura: Ei! espere um pouco, voce está bem?",
+      "contador": 4,
       "ordem": 1
     },
     {
       "fase": 1,
-      "descricao": " Teste_2",
-      "contador": 6,
+      "descricao": " Você: Argh... Onde estou? quem é você?",
+      "contador": 3,
       "ordem": 2
     },
     {
       "fase": 1,
-      "descricao": " Aqui, para avançar, você deve entrar nas salas, clicando nelas",
-      "contador": 10,
+      "descricao": " Boxer: Que bom que acordou! Me chamo Boxer, e não sei onde estamos...",
+      "contador": 6,
       "ordem": 3
     },
     {
       "fase": 1,
-      "descricao": " Porem, cuidado, cada sala pode esconder perigos inimaginaveis!",
-      "contador": 10,
+      "descricao": " Boxer: Já sei! Podemos nos ajudar, eu ilumino e você me protege, que tal?",
+      "contador": 6,
       "ordem": 4
     }
   ]
