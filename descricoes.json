@@ -2,13 +2,13 @@
   "descricoes": [
     {
       "fase": 1,
-      "descricao": " Figura: Ei! espere um pouco, voce está bem?",
+      "descricao": " Figura: Ei! espere um pouco, voce está bem",
       "contador": 4,
       "ordem": 1
     },
     {
       "fase": 1,
-      "descricao": " Você: Argh... Onde estou? quem é você?",
+      "descricao": " Você: Argh... Onde estou quem é você",
       "contador": 3,
       "ordem": 2
     },
@@ -20,7 +20,7 @@
     },
     {
       "fase": 1,
-      "descricao": " Boxer: Já sei! Podemos nos ajudar, eu ilumino e você me protege, que tal?",
+      "descricao": " Boxer: Já sei! Podemos nos ajudar, eu ilumino e você me protege, que tal",
       "contador": 6,
       "ordem": 4
     }
