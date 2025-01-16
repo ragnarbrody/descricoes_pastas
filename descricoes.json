@@ -44,7 +44,7 @@
     },
     {
       "fase": 1,
-      "descricao": " ... ... ... ... ... ... ... ...",
+      "descricao": " ... ... ... ... ... ... ... ... ",
       "contador": 6,
       "ordem": 8
     },
@@ -71,6 +71,54 @@
       "descricao": " Figura= Ora! você esss..ssta na Bibliote..te..teca dos fragmentos!! Onde mais estaria (retruca)",
       "contador": 12,
       "ordem": 12
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Biblioteca dos fragmentos (questiona, curioso), o que é isso, e quem é você afinal (pergunta)",
+      "contador": 13,
+      "ordem": 13
+    },
+    {
+      "fase": 1,
+      "descricao": " Figura= Eu não te..te.tenho certeza, minha mente está dan..dani..fi..cada...",
+      "contador": 11,
+      "ordem": 14
+    },
+    {
+      "fase": 1,
+      "descricao": " Figura= Tudo que sei é que..que a Biblioteca é o Repo..po..sitório...",
+      "contador": 11,
+      "ordem": 15
+    },
+    {
+      "fase": 1,
+      "descricao": " Figura= Tu..tudo que existe, existiu ou existirá essss..ttá aqui!!",
+      "contador": 11,
+      "ordem": 16
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Eu souuu o Bo..boxer! Um dos muii..iitos bibliotecários! Protetores de Repositór..rio!",
+      "contador": 13,
+      "ordem": 17
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Mas... não lembro bem o que n..nósss prote..tegiamos (afirma, confuso)",
+      "contador": 12,
+      "ordem": 18
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Tudo bem, mas por que está tudo tão escuro (pergunta, aflito)",
+      "contador": 11,
+      "ordem": 19
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= E como saímos deste maldito lugar! (questiona, irritado e confuso)",
+      "contador": 11,
+      "ordem": 20
     }
   ]
 }
