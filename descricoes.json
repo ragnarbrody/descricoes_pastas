@@ -2,27 +2,21 @@
   "descricoes": [
     {
       "fase": 1,
-      "descricao": "Ei Espere um pouco voce esta bem...",
-      "contador": 5,
+      "descricao": "Bem vindo ao jogo, ATENCAO, este arquivo será seu GUIA",
+      "contador": 6,
       "ordem": 1
     },
     {
       "fase": 1,
-      "descricao": "Ola, que bom que acordou, me chamo BOXER e ate a pouco, so tinha eu aqui...",
-      "contador": 6,
+      "descricao": "Aqui, para avançar, você deve entrar nas salas, clicando nelas",
+      "contador": 10,
       "ordem": 2
     },
     {
       "fase": 1,
-      "descricao": "BOXER - Vejo que consegue ficar em pe, mas não se preocupe, eu te ajudo",
-      "contador": 6,
+      "descricao": "Porem, cuidado, cada sala pode esconder perigos inimaginaveis!",
+      "contador": 10,
       "ordem": 3
-    },
-    {
-      "fase": 1,
-      "descricao": "BOXER - Primeiro, acenda a tocha que esta na parede...",
-      "contador": 5,
-      "ordem": 4
     }
   ]
 }
