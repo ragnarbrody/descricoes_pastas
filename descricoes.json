@@ -33,8 +33,20 @@
     {
       "fase": 1,
       "descricao": " Boxer= Mas! Podemos nos ajudar, eu ilumino o caminho, e você me protege! que tal (pergunta, esperançosamente)",
-      "contador": 8,
+      "contador": 7,
       "ordem": 6
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Tudo bem... Mas, como vai iluminar (pergunta, curioso)",
+      "contador": 4,
+      "ordem": 7
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Ah! Isso é fácil, arrasta aquela tocha ali na parede até mim.",
+      "contador": 10,
+      "ordem": 8
     }
   ]
 }
