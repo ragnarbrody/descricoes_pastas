@@ -2,13 +2,13 @@
   "descricoes": [
     {
       "fase": 1,
-      "descricao": " Bem vindo ao jogo, ATENCAO, este arquivo será seu GUIA",
+      "descricao": " Teste_1",
       "contador": 6,
       "ordem": 1
     },
     {
       "fase": 1,
-      "descricao": " teste",
+      "descricao": " Teste_2",
       "contador": 6,
       "ordem": 2
     },
