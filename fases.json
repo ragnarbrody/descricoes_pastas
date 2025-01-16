@@ -1,0 +1,14 @@
+{
+  "1": {
+    "descricao": "Bem vindo ao jogo, ATENCAO, este arquivo será seu GUIA",
+    "contador": 6
+  },
+  "2": {
+    "descricao": "Aqui, para avançar, você deve entrar nas salas, clicando nelas",
+    "contador": 10
+  },
+  "3": {
+    "descricao": "Porem, cuidado, cada sala pode esconder perigos inimaginaveis!",
+    "contador": 10
+  }
+}
