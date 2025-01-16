@@ -119,6 +119,12 @@
       "descricao": " Você= E como saímos deste maldito lugar! (questiona, irritado e confuso)",
       "contador": 10,
       "ordem": 20
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Ca..ca.calma! eu sei como podemos ilu..lumi..na..nar! Arraste até mim está tocha at..trás de você",
+      "contador": 13,
+      "ordem": 21
     }
   ]
 }
