@@ -68,13 +68,13 @@
     },
     {
       "fase": 1,
-      "descricao": " Figura= Ora! você esss..ssta na Bibliote..te..teca dos fragmentos!! Onde mais estaria (retruca)",
+      "descricao": " Figura= Ora! você esss..ssta na Bibliote..te..teca dos Fragmentos!! Onde mais estaria (retruca)",
       "contador": 12,
       "ordem": 12
     },
     {
       "fase": 1,
-      "descricao": " Você= Biblioteca dos fragmentos (questiona, curioso), o que é isso, e quem é você afinal (pergunta)",
+      "descricao": " Você= Biblioteca dos Fragmentos (questiona, curioso), o que é isso, e quem é você afinal (pergunta)",
       "contador": 13,
       "ordem": 13
     },
@@ -111,13 +111,13 @@
     {
       "fase": 1,
       "descricao": " Você= Tudo bem, mas por que está tudo tão escuro (pergunta, aflito)",
-      "contador": 11,
+      "contador": 10,
       "ordem": 19
     },
     {
       "fase": 1,
       "descricao": " Você= E como saímos deste maldito lugar! (questiona, irritado e confuso)",
-      "contador": 11,
+      "contador": 10,
       "ordem": 20
     }
   ]
