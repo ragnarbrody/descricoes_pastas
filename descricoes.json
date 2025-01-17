@@ -148,19 +148,85 @@
       "fase": 1,
       "descricao": " E então você vê que a sala onde está é pálida, envelhecida, coberta de muco e poeira...",
       "contador": 11,
-      "ordem": 24
+      "ordem": 25
     },
     {
       "fase": 1,
       "descricao": " Um vislumbre de um passado à muito esquecido... Porém, ao olhar para Boxer, você fica intrigado...",
       "contador": 12,
-      "ordem": 25
+      "ordem": 26
     },
     {
       "fase": 1,
-      "descricao": " Ele é uma máquina, ",
-      "contador": 12,
-      "ordem": 26
+      "descricao": " Ele é uma máquina! Feito de um material semelhante à argila, esbranquiçado...",
+      "contador": 10,
+      "ordem": 27
+    },
+    {
+      "fase": 1,
+      "descricao": " Engranagens enferrujadas e envelhecidas saltam para fora do peito da máquina...",
+      "contador": 10,
+      "ordem": 28
+    },
+    {
+      "fase": 1,
+      "descricao": " Seus braços são finos e um tubo corrugado liga a parte superior à inferior...",
+      "contador": 10,
+      "ordem": 29
+    },
+    {
+      "fase": 1,
+      "descricao": " Suas pernas são robustas e emplacadas por algum tipo de cerâmica, porém estão velhas e desgastadas...",
+      "contador": 13,
+      "ordem": 30
+    },
+    {
+      "fase": 1,
+      "descricao": " Sua cabeça possui engranagens onde seria o cérebro e seus olhos são levemente projetados para fora, com saliencias",
+      "contador": 14,
+      "ordem": 31
+    },
+    {
+      "fase": 1,
+      "descricao": " Porém, parte da cabeça da máquina está destruída...",
+      "contador": 8,
+      "ordem": 32
+    },
+    {
+      "fase": 1,
+      "descricao": " Um terço do rosto está faltando, um dos olhos rachado e algumas engrenagens ausentes...",
+      "contador": 10,
+      "ordem": 33
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= E..Eu nunca vi um arqui..qui..vo fazer isso! como você acendeu est..ta tocha?",
+      "contador": 10,
+      "ordem": 34
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Arquivo? do que você está falan... - você olha para sua mão enquanto fala e assusta-se - Mas que po...",
+      "contador": 13,
+      "ordem": 35
+    },
+    {
+      "fase": 1,
+      "descricao": " Enquanto olha para suas mãos, os números e códigos se movimentam em seu corpo, como sangue nas veias...",
+      "contador": 13,
+      "ordem": 36
+    },
+    {
+      "fase": 1,
+      "descricao": " Estática percorre seu corpo, cobrindo-o como uma pele...",
+      "contador": 8,
+      "ordem": 37
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Vo..você não sa..sabia? Tudo aqui é arquivo, tudo é feito de da..da.dados ",
+      "contador": 8,
+      "ordem": 38
     }
   ]
 }
