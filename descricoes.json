@@ -122,21 +122,45 @@
     },
     {
       "fase": 1,
-      "descricao": " Boxer= Ca..ca.calma! eu sei como podemos ilu..lumi..na..nar! Arraste até mim esta tocha at..trás de você",
-      "contador": 13,
+      "descricao": " Boxer= Ca..calma! eu sei como podemos ilu..lumi..na..nar! Ten..tente interagir com esta to..tocha atrás de você!",
+      "contador": 15,
       "ordem": 21
     },
     {
       "fase": 1,
-      "descricao": " Ao entregar a tocha para Boxer, você vê que a ponta de seu dedo está aberta, com uma pequena chama saindo dela...",
+      "descricao": " Você vira para trás e tateia até encontrar a tocha, e então, impetuosamente, a vontade de MUDANÇA te domina.... ",
       "contador": 14,
       "ordem": 22
     },
     {
       "fase": 1,
-      "descricao": " E então... Voosh! A tocha se incendeia e você passa a enxergar a sala, coberta de musgo, rachaduras e poeira...",
-      "contador": 14,
+      "descricao": " E repentinamente, como um truque de mágica, a tocha está acesa em suas mãos!",
+      "contador": 10,
       "ordem": 23
+    },
+    {
+      "fase": 1,
+      "descricao": " Você sente um frio subindo por seu corpo, como se uma força que não compreende tivesse deixado seu corpo...",
+      "contador": 14,
+      "ordem": 24
+    },
+    {
+      "fase": 1,
+      "descricao": " E então você vê que a sala onde está é pálida, envelhecida, coberta de muco e poeira...",
+      "contador": 11,
+      "ordem": 24
+    },
+    {
+      "fase": 1,
+      "descricao": " Um vislumbre de um passado à muito esquecido... Porém, ao olhar para Boxer, você fica intrigado...",
+      "contador": 12,
+      "ordem": 25
+    },
+    {
+      "fase": 1,
+      "descricao": " Ele é uma máquina, ",
+      "contador": 12,
+      "ordem": 26
     }
   ]
 }
