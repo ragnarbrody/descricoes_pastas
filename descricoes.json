@@ -140,7 +140,7 @@
     },
     {
       "fase": 1,
-      "descricao": " Você sente um frio subindo por seu corpo, como se uma força que não compreende tivesse deixado seu corpo...",
+      "descricao": " Você sente um frio subindo por seu corpo, como se uma força que não compreende tivesse deixado-o...",
       "contador": 14,
       "ordem": 24
     },
@@ -200,13 +200,13 @@
     },
     {
       "fase": 1,
-      "descricao": " Boxer= E..Eu nunca vi um arqui..qui..vo fazer isso! como você acendeu est..ta tocha?",
+      "descricao": " Boxer= E..Eu nunca vi um arqui..qui..vo fazer isso! como você acendeu est..ta tocha (pergunta)",
       "contador": 10,
       "ordem": 34
     },
     {
       "fase": 1,
-      "descricao": " Você= Arquivo? do que você está falan... - você olha para sua mão enquanto fala e assusta-se - Mas que po...",
+      "descricao": " Você= Arquivo (indaga) do que você está falan... - você olha para sua mão enquanto fala e assusta-se - Mas que po...",
       "contador": 13,
       "ordem": 35
     },
@@ -224,7 +224,7 @@
     },
     {
       "fase": 1,
-      "descricao": " Boxer= Vo..você não sa..sabia? Tudo aqui é arquivo, tudo é feito de da..da.dados ",
+      "descricao": " Boxer= Vo..você não sa..sabia (pergunta, preocupado) Tudo aqui é arquivo, tudo é feito de da..da.dados ",
       "contador": 8,
       "ordem": 38
     }
