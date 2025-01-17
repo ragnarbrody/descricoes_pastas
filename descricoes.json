@@ -125,6 +125,18 @@
       "descricao": " Boxer= Ca..ca.calma! eu sei como podemos ilu..lumi..na..nar! Arraste até mim esta tocha at..trás de você",
       "contador": 13,
       "ordem": 21
+    },
+    {
+      "fase": 1,
+      "descricao": " Ao entregar a tocha para Boxer, você vê que a ponta de seu dedo está aberta, com uma pequena chama saindo dela...",
+      "contador": 14,
+      "ordem": 22
+    },
+    {
+      "fase": 1,
+      "descricao": " E então... Voosh! A tocha se incendeia e você passa a enxergar a sala, coberta de musgo, rachaduras e poeira...",
+      "contador": 14,
+      "ordem": 23
     }
   ]
 }
