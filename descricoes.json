@@ -195,7 +195,7 @@
     {
       "fase": 1,
       "descricao": " Um terço do rosto está faltando, um dos olhos rachado e algumas engrenagens ausentes...",
-      "contador": 6,
+      "contador": 7,
       "ordem": 33
     },
     {
@@ -251,6 +251,12 @@
       "descricao": " Você= Eu não sei porque sou um arquivo e porque estou aqui, mas não é permanecendo parados, que descobriremos!",
       "contador": 8.5,
       "ordem": 42
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Tudo be..bem! Vamos por àquela por...rta no canto da sa..sa.la!",
+      "contador": 6,
+      "ordem": 43
     }
   ]
 }
