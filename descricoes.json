@@ -183,7 +183,7 @@
     {
       "fase": 1,
       "descricao": " Sua cabeça possui engranagens onde seria o cérebro e seus olhos são levemente projetados para fora, com saliencias",
-      "contador": 8,
+      "contador": 9,
       "ordem": 31
     },
     {
@@ -224,9 +224,15 @@
     },
     {
       "fase": 1,
-      "descricao": " Boxer= Vo..você não sa..sabia (pergunta, preocupado) Tudo aqui é arquivo, tudo é feito de da..da.dados ",
+      "descricao": " Boxer= Vo..você não sa..sabia (pergunta, preocupado) Tudo aqui é arquivo, tudo é feito de da..da.dados",
       "contador": 7,
       "ordem": 38
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Como eu sou um arquivo? Eu penso... Eu sinto, eu.. eu estou vivo! Como um arquivo faria isso (Pergunta, aflito)",
+      "contador": 9,
+      "ordem": 39
     }
   ]
 }
