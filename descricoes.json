@@ -123,7 +123,7 @@
     {
       "fase": 1,
       "descricao": " Boxer= Ca..calma! eu sei como podemos ilu..lumi..na..nar! Ten..tente interagir com esta to..tocha atrás de você!",
-      "contador": 8,
+      "contador": 9,
       "ordem": 21
     },
     {
@@ -207,7 +207,7 @@
     {
       "fase": 1,
       "descricao": " Você= Arquivo (indaga) do que você está falan... - você olha para sua mão enquanto fala e assusta-se - Mas que po...",
-      "contador": 8,
+      "contador": 9,
       "ordem": 35
     },
     {
@@ -230,9 +230,27 @@
     },
     {
       "fase": 1,
-      "descricao": " Você= Como eu sou um arquivo? Eu penso... Eu sinto, eu.. eu estou vivo! Como um arquivo faria isso (Pergunta, aflito)",
-      "contador": 9,
+      "descricao": " Você= Como.... Como.. Eu penso... Eu sinto, eu.. eu estou vivo! Como um arquivo faria isso (Pergunta, aflito)",
+      "contador": 8.5,
       "ordem": 39
+    },
+    {
+      "fase": 1,
+      "descricao": " Boxer= Eu n..não sei bem, mas se t.tu..tudo é arquivo, o q..que você esperava ser (Questiona, Curioso)",
+      "contador": 8,
+      "ordem": 40
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Bom... Eu... Sinto que não pertenço à este mundo, mas não sei bem o porque, apenas sinto..",
+      "contador": 7,
+      "ordem": 41
+    },
+    {
+      "fase": 1,
+      "descricao": " Você= Eu não sei porque sou um arquivo e porque estou aqui, mas não é permanecendo parados, que descobriremos!",
+      "contador": 8.5,
+      "ordem": 42
     }
   ]
 }
